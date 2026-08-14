@@ -1,0 +1,22 @@
+body{
+
+  margin:0;
+
+  padding:0;
+
+  margin:auto !important;
+
+}
+
+table,tr,td{
+
+  border:1px solid black;
+
+}
+@media (max-width:600px){
+  .mob{
+    display:block !important;
+    width:100% !important;
+    max-width:100% !important;
+  }
+}
